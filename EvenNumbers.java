@@ -1,4 +1,7 @@
-package module1;
+// Write a Java program to print all even numbers between 1 and 100 using a for loop.
+
+
+package module1lab;
 
 public class EvenNumbers {
 
@@ -9,13 +12,12 @@ public class EvenNumbers {
 		 * Date:17/07/2025
 		 */
 		
-		int i=2;
-		System.out.println("Even numbers between 1 and 20");
-		do
+		System.out.println("Even numbers between 1 and 100");
+		for(int i=2;i<=100;i+=2)
 		{
 			System.out.println(i+" ");
-			i+=2;
-		}while(i<20);
+		}
+
 	}
 
 }

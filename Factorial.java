@@ -1,12 +1,16 @@
-package module1;
-import java.util.*;
-public class Factorial {
+// Write a Java program to print the factorial of a given number using a while loop.
 
-	public static void main(String[] args) {
+
+package module1lab;
+
+import java.util.Scanner;
+
+public class Factorial {
+public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
 		/*Author:Gayathri B Nair
-		 * Date:15/07/2025
+		 * Date:17/07/2025
 		 */
 		
 		Scanner sc=new Scanner(System.in);
