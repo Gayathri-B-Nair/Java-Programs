@@ -2,6 +2,11 @@ package module1;
 import java.util.*;
 public class Largest {
 	public static void main(String[] args) {
+		
+		/*Author:Gayathri B Nair
+		 * Date:15/07/2025
+		 */
+		
 		Scanner sc=new Scanner(System.in);
 		int num1,num2,num3;
 		System.out.println("Enter three numbers:");

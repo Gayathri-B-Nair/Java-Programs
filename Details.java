@@ -2,6 +2,11 @@ package module1;
 import java.util.*;
 public class Details {
 	public static void main(String[] args) {
+		
+		/*Author:Gayathri B Nair
+		 * Date:14/07/2025
+		 */
+		
 	Scanner sc=new Scanner(System.in);
 	String name;
 	int age;

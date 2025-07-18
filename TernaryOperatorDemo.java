@@ -2,6 +2,11 @@ package module1;
 import java.util.Scanner;
 public class TernaryOperatorDemo {
 	public static void main(String[] args) {
+		
+		/*Author:Gayathri B Nair
+		 * Date:13/07/2025
+		 */
+		
 		Scanner sc=new Scanner(System.in);
 		int firstNumber,secondNumber;
 		System.out.println("Enter the first number");
