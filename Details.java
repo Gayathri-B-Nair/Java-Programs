@@ -19,7 +19,8 @@ public class Details {
 	cgpa=sc.nextDouble();
 	System.out.println("Enter the attendancePercentage:");
 	attendancePercentage=sc.nextFloat();
-	System.out.println("      My Details        ");
+	System.out.println("     "
+			+ " My Details        ");
 	System.out.println(".........................");
 	System.out.println("Full Name:"+name);
 	System.out.println("Age:"+age);
@@ -33,6 +34,7 @@ public class Details {
 	{ 
 		System.out.println("Attendance Mark:"+attendancePercentage/10);
 	}
+	sc.close();
  }
 
 }

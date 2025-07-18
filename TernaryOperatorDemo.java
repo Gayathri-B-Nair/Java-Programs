@@ -11,6 +11,7 @@ public class TernaryOperatorDemo {
 		int bigNumber;
 		bigNumber=firstNumber>secondNumber?firstNumber:secondNumber;
 		System.out.println("I am "+bigNumber+",the big number");
+		sc.close();
 	}
 
 }
