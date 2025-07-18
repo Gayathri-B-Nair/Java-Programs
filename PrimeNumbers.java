@@ -12,6 +12,7 @@ public class PrimeNumbers {
 		 */
 		
 		int i,j,isPrime;
+		System.out.println("Prime numbers between 1 and 100");
 		for(i=2;i<=100;i++)
 		{
 			isPrime=1;
